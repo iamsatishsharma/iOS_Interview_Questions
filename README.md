@@ -6,7 +6,7 @@ Numerous iOS developers have expressed the desire for a compilation of interview
 
 To ensure you have access to valuable interview questions whenever you need them, I've established this open-source repository.
 
-# Follow and give a start :star:
+# Follow and give a star :star: and share it with your colleagues and friends.
 Please give this project a star if you find it useful or are using it to learn or begin your solution. Thanks!
 
 # Want to contribute?
