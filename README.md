@@ -15,3 +15,9 @@ Please give this project a star if you find it useful or are using it to learn o
 2. If you come across a spelling mistake or an answer that doesn't seem right, please let me know by creating an issue. I'll be glad to correct them.
 3. If you'd like to add your questions and answers, you can suggest changes by creating a pull request.
 4. You can also reach me anytime to discuss on questions.
+
+# License
+
+iOS_Interview_Questions is available under the MIT license. See the LICENSE file for more info.
+
+Feel free to contact me on ssharma.developers@gmail.com
